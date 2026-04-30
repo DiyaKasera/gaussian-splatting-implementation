@@ -48,7 +48,7 @@ See [report/report.md](report/report.md) for the full written analysis.
 
 ## How to View the 3D Model
 
-1. Download `results/point_cloud.ply`
+1. Download point_cloud.ply here: [Google Drive Link](https://drive.google.com/file/d/1jN8tPbsVLzw-04LUrQyat18SmfDpAc4e/view?usp=drive_link)
 2. Go to [playcanvas.com/supersplat/editor](https://playcanvas.com/supersplat/editor)
 3. Drag and drop the `.ply` file into the browser
 
