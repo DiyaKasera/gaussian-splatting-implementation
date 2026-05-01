@@ -4,7 +4,7 @@
 This project uses the 3DGS implementation by Kerbl et al. (2023).
 Original code: [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
 
-> All original code is unmodified. My contributions are in `report/`, `results/`, and `notebooks/`.
+> All original code is unmodified. My contributions are in `DiyaKasera_report`, `results/`, and `Gaussian_splatting_implementation`.
 
 ---
 
@@ -19,10 +19,9 @@ photographic dataset, with analysis of anisotropic correlation in the learned Ga
 
 | Folder | Contents |
 |---|---|
-| `report/` | Full analysis report with equations and findings |
-| `results/` | Trained model (.ply) and anisotropy analysis charts |
-| `notebooks/` | Complete Colab pipeline (.py file) |
-| `dataset/` | Dataset description and Google Drive link |
+| `results/` | Anisotropy analysis charts |
+| `Diyakasera_report` | Full analysis report with equations and findings |
+| `Gaussian_splatting_implentation` | Complete Colab pipeline (.py file) |
 
 ---
 
@@ -35,14 +34,6 @@ photographic dataset, with analysis of anisotropic correlation in the learned Ga
 | Resolution scale | 4 (quarter) |
 | PSNR at iteration 7,000 | 21.91 dB |
 | Loss at iteration 7,000 | 0.1201 |
-
----
-
-## Anisotropy Analysis
-
-See [report/report.md](report/report.md) for the full written analysis.
-
-![Anisotropy Chart](results/anisotropy_analysis.png)
 
 ---
 
